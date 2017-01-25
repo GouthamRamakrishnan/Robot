@@ -14,7 +14,7 @@ Open Browser To Login Page
 
     Open Browser        ${SERVER}   ${BROWSER}
 
-    Maximize Browser Window
+    Maximize Browser Window 
 
     Set Selenium Speed  ${DELAY}
 
